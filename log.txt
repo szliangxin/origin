@@ -1,0 +1,23 @@
+commit c3c5069d6613491b6202b8dc4d9ae6a749a68640
+Author: Dennis Liang <liangxin@amazon.com>
+Date:   Wed Apr 25 21:58:55 2018 -0700
+
+    add all new files
+
+commit 322fb11595c5afbdcce653399ab4ee55df14f8ad
+Author: Dennis Liang <liangxin@amazon.com>
+Date:   Wed Apr 25 21:53:24 2018 -0700
+
+    Hello World added to file1
+
+commit cf4760f2a625bca613714b09fdbfa32e21c17040
+Author: Dennis Liang <liangxin@amazon.com>
+Date:   Wed Apr 25 21:50:55 2018 -0700
+
+    added two files
+
+commit 5d3cda4aea4917fe341fb5035234b5050e097efe
+Author: Dennis Liang <liangxin@amazon.com>
+Date:   Wed Apr 25 21:46:05 2018 -0700
+
+    first commit
